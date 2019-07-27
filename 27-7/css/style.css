@@ -1,0 +1,15 @@
+nav{
+	background-color: blue;
+	height: 30px;
+	width: 100%;
+}
+nav ul li{
+	float: left;
+	list-style-type: none; 
+	padding-left: 35px;
+	padding-top: 10px;  
+}
+ul li a{
+	text-decoration: none;
+	color: white; 
+}
